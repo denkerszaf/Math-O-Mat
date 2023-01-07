@@ -3,14 +3,14 @@
 **Mechanik**
 
 - [x] Rückwand: Siebdruckplatte 270mm :x 360mm :x 10mm, Alternative für Laubsäge und Lasercutter: 2 Stück gleicher Maße aus  5mm MDF oder Sperrholz
-- [ ] Trichter und Portionierer: Buche 230mm :x 415mm :x 20mm, Alternative für Laubsäge und Lasercutter: 4 Stück gleicher Maße aus  5mm MDF oder Sperrholz
-- [ ] Acrylglas 255mm :x 325mm :x 5mm
-- [ ] Gestell: Siebdruckplatte 290mm :x 250mm :x 10mm, Alternative für Laubsäge und Lasercutter: 2 Stück gleicher Maße aus  5mm MDF oder Sperrholz
-- [ ] Aluminiumrohr 8mm als Achse für Schneckengetriebe
-- [ ] Sechskantschraube M8x50, Gewindelänge 40mm, alternativ Gewindestange 50mm mit zwei gekonterten Muttern als Kopf, als Achse für den Portionierer 
+- [x] Trichter und Portionierer: Buche 230mm :x 415mm :x 20mm, Alternative für Laubsäge und Lasercutter: 4 Stück gleicher Maße aus  5mm MDF oder Sperrholz
+- [x] Acrylglas 255mm :x 325mm :x 5mm
+- [x] Gestell: Siebdruckplatte 290mm :x 250mm :x 10mm, Alternative für Laubsäge und Lasercutter: 2 Stück gleicher Maße aus  5mm MDF oder Sperrholz
+- [x] Aluminiumrohr 8mm als Achse für Schneckengetriebe
+- [x] Sechskantschraube M8x50, Gewindelänge 40mm, alternativ Gewindestange 50mm mit zwei gekonterten Muttern als Kopf, als Achse für den Portionierer 
 - [ ] Stellschraube M4, ggf. auch eine Madenschraube
-- [ ] 2 Kugellager Innendurchmesser 8mm, Aussendurchmesser 22 mm, Dicke 7mm
-- [ ] 6 Schrauben M3x40mm mit Unterlegscheiben und Muttern
+- [x] 2 Kugellager Innendurchmesser 8mm, Aussendurchmesser 22 mm, Dicke 7mm
+- [x] 6 Schrauben M3x40mm mit Unterlegscheiben und Muttern
 - [ ] Befestigungsmaterial für die Platine, etwa Schrauben, Distanzhülsen etc.
 - [ ] 3D-Druckteile: Schnecke, Lagerhalter, Portioniererzahnrad, Motorhalter, Motorkupplung
 - [ ] Holzschrauben mit Unterlegscheiben max 10mm lang (für die Deckplatte)
